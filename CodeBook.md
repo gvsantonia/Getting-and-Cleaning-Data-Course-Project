@@ -1,6 +1,8 @@
+# Project Description
+
 The run_analysis.R script is designed to clean-up and prepare data for further analysis regarding a subject's physical activities collected from a smartphone application.
 
-#DataSet Source
+## DataSet Source
 
 The data used in the project is the UCI HAR Dataset.
 The data was downloaded from:
